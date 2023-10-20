@@ -1,0 +1,5 @@
+simgui*
+*~
+__pycache__
+networktables.json
+*.bck
